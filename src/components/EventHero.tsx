@@ -16,7 +16,7 @@ const EventHero = () => {
       <div className="relative z-10 container mx-auto px-4 text-center text-white">
         <div className="max-w-4xl mx-auto animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            Event Management Company in <span className="text-event-cream">Kolkata</span>
+            Jhantu Ankit's Event Management Company in <span className="text-event-cream">Delhi</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto leading-relaxed">
             Offers a full spectrum of integrated Event management services that consistently deliver highly targeted effective solutions tailored to the needs of our client.

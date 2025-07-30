@@ -39,23 +39,23 @@ All colors MUST be HSL.
 
     --radius: 0.75rem;
 
-    /* Hotel management specific colors */
-    --hotel-navy: 215 25% 27%;
-    --hotel-blue: 210 100% 56%;
-    --hotel-light-blue: 210 100% 70%;
-    --hotel-gold: 43 74% 66%;
-    --hotel-cream: 210 17% 98%;
-    --hotel-gray: 215 16% 47%;
+    /* Event management specific colors */
+    --event-purple: 280 100% 30%;
+    --event-pink: 320 100% 60%;
+    --event-orange: 25 100% 55%;
+    --event-blue: 220 100% 45%;
+    --event-green: 120 100% 35%;
+    --event-cream: 48 20% 94%;
 
     /* Gradients */
-    --gradient-hero: linear-gradient(135deg, hsl(var(--hotel-blue)), hsl(var(--hotel-light-blue)));
-    --gradient-card: linear-gradient(135deg, hsl(var(--background)), hsl(var(--hotel-cream)));
-    --gradient-accent: linear-gradient(135deg, hsl(var(--hotel-gold)), hsl(var(--accent)));
+    --gradient-hero: linear-gradient(135deg, hsl(var(--event-purple)), hsl(var(--event-pink)));
+    --gradient-card: linear-gradient(135deg, hsl(var(--background)), hsl(var(--event-cream)));
+    --gradient-accent: linear-gradient(135deg, hsl(var(--event-orange)), hsl(var(--event-pink)));
 
     /* Shadows */
-    --shadow-soft: 0 4px 20px -2px hsl(var(--hotel-blue) / 0.1);
-    --shadow-medium: 0 10px 40px -4px hsl(var(--hotel-blue) / 0.15);
-    --shadow-strong: 0 20px 60px -8px hsl(var(--hotel-blue) / 0.25);
+    --shadow-soft: 0 4px 20px -2px hsl(var(--event-purple) / 0.1);
+    --shadow-medium: 0 10px 40px -4px hsl(var(--event-purple) / 0.15);
+    --shadow-strong: 0 20px 60px -8px hsl(var(--event-purple) / 0.25);
 
     /* Animations */
     --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);

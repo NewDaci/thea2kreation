@@ -1,17 +1,21 @@
-import Header from "@/components/Header";
-import Hero from "@/components/Hero";
-import Features from "@/components/Features";
-import Benefits from "@/components/Benefits";
-import Footer from "@/components/Footer";
+import EventHeader from "@/components/EventHeader";
+import EventHero from "@/components/EventHero";
+import EventAbout from "@/components/EventAbout";
+import EventServices from "@/components/EventServices";
+import EventTestimonials from "@/components/EventTestimonials";
+import EventContact from "@/components/EventContact";
+import EventFooter from "@/components/EventFooter";
 
 const Index = () => {
   return (
     <div className="min-h-screen">
-      <Header />
-      <Hero />
-      <Features />
-      <Benefits />
-      <Footer />
+      <EventHeader />
+      <EventHero />
+      <EventAbout />
+      <EventServices />
+      <EventTestimonials />
+      <EventContact />
+      <EventFooter />
     </div>
   );
 };

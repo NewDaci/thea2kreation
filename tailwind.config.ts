@@ -53,13 +53,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
-				hotel: {
-					navy: 'hsl(var(--hotel-navy))',
-					blue: 'hsl(var(--hotel-blue))',
-					'light-blue': 'hsl(var(--hotel-light-blue))',
-					gold: 'hsl(var(--hotel-gold))',
-					cream: 'hsl(var(--hotel-cream))',
-					gray: 'hsl(var(--hotel-gray))'
+				event: {
+					purple: 'hsl(var(--event-purple))',
+					pink: 'hsl(var(--event-pink))',
+					orange: 'hsl(var(--event-orange))',
+					blue: 'hsl(var(--event-blue))',
+					green: 'hsl(var(--event-green))',
+					cream: 'hsl(var(--event-cream))'
 				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',

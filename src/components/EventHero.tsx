@@ -16,10 +16,13 @@ const EventHero = () => {
       <div className="relative z-10 container mx-auto px-4 text-center text-white">
         <div className="max-w-4xl mx-auto animate-fade-in">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            Jhantu Ankit's Event Management Company in <span className="text-event-cream">Delhi</span>
+            The <span className="text-event-cream">A2 Kreations</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto leading-relaxed">
-            Offers a full spectrum of integrated Event management services that consistently deliver highly targeted effective solutions tailored to the needs of our client.
+            Events & Hospitality | Vision. Create. Unleash.
+          </p>
+          <p className="text-lg md:text-xl mb-8 max-w-3xl mx-auto leading-relaxed opacity-90">
+            We don't just plan events — we craft experiences that linger in memory long after the last light dims.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
@@ -35,19 +38,19 @@ const EventHero = () => {
           <div className="flex flex-wrap justify-center items-center gap-8 text-sm">
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 bg-event-cream rounded-full"></div>
-              <span>Since 1998</span>
+              <span>Creative Visioning</span>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 bg-event-cream rounded-full"></div>
-              <span>1000+ Events</span>
+              <span>Seamless Execution</span>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 bg-event-cream rounded-full"></div>
-              <span>Pan India Service</span>
+              <span>Tailored Experiences</span>
             </div>
             <div className="flex items-center gap-2">
               <div className="w-2 h-2 bg-event-cream rounded-full"></div>
-              <span>20+ Years Experience</span>
+              <span>Trusted Expertise</span>
             </div>
           </div>
         </div>

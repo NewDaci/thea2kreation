@@ -8,10 +8,10 @@ const EventContact = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-8">
-            We'll plan your dream event!
+            Let's Create Something Unforgettable
           </h2>
           <p className="text-xl opacity-90 max-w-2xl mx-auto">
-            We respect your privacy. We store personal data securely and will not share your details with any 3rd party.
+            Whether you're preparing to walk down the aisle or preparing a stage for your next big pitch — The A2 Kreations is here to turn your moments into milestones.
           </p>
         </div>
 
@@ -50,11 +50,11 @@ const EventContact = () => {
         </div>
 
         <div className="text-center mt-16">
-          <h3 className="text-2xl font-bold mb-4">Quick Contact</h3>
+          <h3 className="text-2xl font-bold mb-4">Contact The A2 Kreations</h3>
           <div className="flex flex-col md:flex-row justify-center items-center gap-8 text-lg">
-            <div>📞 +919831177461</div>
-            <div>✉️ info@silverevent.com</div>
-            <div>📍 Kolkata, India</div>
+            <div>📞 Contact us today</div>
+            <div>✉️ info@a2kreations.com</div>
+            <div>📍 India</div>
           </div>
         </div>
       </div>

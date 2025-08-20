@@ -13,22 +13,22 @@ import { Card, CardContent } from "@/components/ui/card";
 const EventServices = () => {
   const services = [
     {
+      icon: Heart,
+      title: "Wedding Magic",
+      description: "Your wedding is one of the most significant days of your life. We transform your dreams into reality with elegant themes and breathtaking décor.",
+      gradient: "from-event-pink to-event-orange"
+    },
+    {
       icon: Building2,
-      title: "Corporate Events",
-      description: "Corporate events in India bring people together to build businesses, celebrate achievements, and create meaningful connections.",
+      title: "Corporate Excellence",
+      description: "Whether launching a product or hosting conferences, your corporate event reflects your brand. We create engaging and impactful environments.",
       gradient: "from-event-blue to-event-purple"
     },
     {
       icon: Users,
-      title: "Government Events",
-      description: "These events connect leaders, citizens, and institutions to move the nation forward.",
+      title: "Social Celebrations",
+      description: "From intimate gatherings to grand celebrations, we handle every element with grace and precision for unforgettable social events.",
       gradient: "from-event-purple to-event-pink"
-    },
-    {
-      icon: Heart,
-      title: "Social Events",
-      description: "Social events in India are all about emotions, traditions, and beautiful memories.",
-      gradient: "from-event-pink to-event-orange"
     },
     {
       icon: UserCheck,
@@ -66,9 +66,9 @@ const EventServices = () => {
     <section id="services" className="py-20">
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
-          <span className="text-sm uppercase tracking-wider text-primary font-semibold">the best for you</span>
+          <span className="text-sm uppercase tracking-wider text-primary font-semibold">What We Do</span>
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mt-4 mb-8">
-            Our Event Management Services!
+            Our Signature Services
           </h2>
         </div>
 

@@ -7,20 +7,20 @@ const EventFooter = () => {
           <div>
             <div className="flex items-center space-x-2 mb-6">
               <div className="w-10 h-10 bg-gradient-hero rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">SE</span>
+                <span className="text-white font-bold text-xl">A2</span>
               </div>
               <div>
-                <h3 className="text-xl font-bold">Silver Event</h3>
-                <p className="text-sm text-gray-400">Management</p>
+                <h3 className="text-xl font-bold">The A2 Kreations</h3>
+                <p className="text-sm text-gray-400">Events & Hospitality</p>
               </div>
             </div>
             <p className="text-gray-300 text-sm leading-relaxed mb-4">
-              Creating unforgettable experiences across India since 1998. We bring creativity, precision, and heart to every detail.
+              We don't just plan events — we craft experiences that linger in memory. Vision. Create. Unleash.
             </p>
             <div className="text-sm text-gray-400 space-y-1">
-              <p>📧 info@silverevent.com</p>
-              <p>📞 +919831177461</p>
-              <p>📍 Kolkata, India</p>
+              <p>📧 info@a2kreations.com</p>
+              <p>📞 Contact us today</p>
+              <p>📍 India</p>
             </div>
           </div>
 
@@ -28,12 +28,12 @@ const EventFooter = () => {
           <div>
             <h4 className="text-lg font-semibold mb-6">Our Services</h4>
             <ul className="space-y-3 text-sm text-gray-300">
-              <li><a href="#" className="hover:text-white transition-colors">Corporate Events</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Government Events</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Social Events</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Team Building</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Medical Conferences</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Festival Events</a></li>
+              <li><a href="#" className="hover:text-white transition-colors">Wedding Magic</a></li>
+              <li><a href="#" className="hover:text-white transition-colors">Corporate Excellence</a></li>
+              <li><a href="#" className="hover:text-white transition-colors">Social Celebrations</a></li>
+              <li><a href="#" className="hover:text-white transition-colors">Conferences & Seminars</a></li>
+              <li><a href="#" className="hover:text-white transition-colors">Exhibitions</a></li>
+              <li><a href="#" className="hover:text-white transition-colors">Custom Events</a></li>
             </ul>
           </div>
 
@@ -66,7 +66,7 @@ const EventFooter = () => {
 
         <div className="border-t border-gray-700 mt-12 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-            © 2024 Silver Event Management. All rights reserved. | 
+            © 2024 The A2 Kreations. All rights reserved. | 
             <a href="#" className="hover:text-white transition-colors"> Privacy Policy </a> | 
             <a href="#" className="hover:text-white transition-colors"> Terms of Service</a>
           </p>

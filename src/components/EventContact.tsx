@@ -1,3 +1,4 @@
+
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
@@ -20,28 +21,28 @@ const EventContact = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <Input 
                 placeholder="Your Name" 
-                className="bg-white/20 border-white/30 text-white placeholder-white/80 focus:text-white focus:bg-white/30 focus:placeholder-white/60"
+                className="bg-card border-input text-card-foreground placeholder:text-muted-foreground shadow-soft focus:bg-card"
               />
               <Input 
                 placeholder="Your Email" 
                 type="email" 
-                className="bg-white/20 border-white/30 text-white placeholder-white/80 focus:text-white focus:bg-white/30 focus:placeholder-white/60"
+                className="bg-card border-input text-card-foreground placeholder:text-muted-foreground shadow-soft focus:bg-card"
               />
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <Input 
                 placeholder="Phone Number" 
-                className="bg-white/20 border-white/30 text-white placeholder-white/80 focus:text-white focus:bg-white/30 focus:placeholder-white/60"
+                className="bg-card border-input text-card-foreground placeholder:text-muted-foreground shadow-soft focus:bg-card"
               />
               <Input 
                 placeholder="Event Type" 
-                className="bg-white/20 border-white/30 text-white placeholder-white/80 focus:text-white focus:bg-white/30 focus:placeholder-white/60"
+                className="bg-card border-input text-card-foreground placeholder:text-muted-foreground shadow-soft focus:bg-card"
               />
             </div>
             <Textarea 
               placeholder="Tell us about your event requirements..."
               rows={5}
-              className="bg-white/20 border-white/30 text-white placeholder-white/80 focus:text-white focus:bg-white/30 focus:placeholder-white/60"
+              className="bg-card border-input text-card-foreground placeholder:text-muted-foreground shadow-soft focus:bg-card"
             />
             <Button variant="outline-white" size="lg" className="w-full">
               Send Message

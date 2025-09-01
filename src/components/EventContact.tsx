@@ -20,28 +20,28 @@ const EventContact = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <Input 
                 placeholder="Your Name" 
-                className="bg-white/10 border-white/20 text-white placeholder-white/70"
+                className="bg-white/10 border-white/20 text-white placeholder-white/90 focus:text-white focus:bg-white/20"
               />
               <Input 
                 placeholder="Your Email" 
                 type="email" 
-                className="bg-white/10 border-white/20 text-white placeholder-white/70"
+                className="bg-white/10 border-white/20 text-white placeholder-white/90 focus:text-white focus:bg-white/20"
               />
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               <Input 
                 placeholder="Phone Number" 
-                className="bg-white/10 border-white/20 text-white placeholder-white/70"
+                className="bg-white/10 border-white/20 text-white placeholder-white/90 focus:text-white focus:bg-white/20"
               />
               <Input 
                 placeholder="Event Type" 
-                className="bg-white/10 border-white/20 text-white placeholder-white/70"
+                className="bg-white/10 border-white/20 text-white placeholder-white/90 focus:text-white focus:bg-white/20"
               />
             </div>
             <Textarea 
               placeholder="Tell us about your event requirements..."
               rows={5}
-              className="bg-white/10 border-white/20 text-white placeholder-white/70"
+              className="bg-white/10 border-white/20 text-white placeholder-white/90 focus:text-white focus:bg-white/20"
             />
             <Button variant="outline-white" size="lg" className="w-full">
               Send Message
@@ -52,7 +52,7 @@ const EventContact = () => {
         <div className="text-center mt-16">
           <h3 className="text-2xl font-bold mb-4">Contact The A2 Kreations</h3>
           <div className="flex flex-col md:flex-row justify-center items-center gap-8 text-lg">
-            <div>📞 Contact us today</div>
+            <div>📞 +91-9910566561 / 7088014106</div>
             <div>✉️ info@a2kreations.com</div>
             <div>📍 India</div>
           </div>

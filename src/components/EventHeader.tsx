@@ -10,10 +10,12 @@ const EventHeader = () => {
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
-            <div className="flex items-center space-x-2">
-              <div className="w-10 h-10 bg-gradient-hero rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-xl">A2</span>
-              </div>
+            <div className="flex items-center space-x-3">
+              <img 
+                src="/lovable-uploads/07a6a58a-6cbe-4aca-b0b1-cddfa949681e.png" 
+                alt="The A2 Kreations Logo" 
+                className="h-12 w-12 object-contain"
+              />
               <div>
                 <h1 className="text-xl font-bold text-foreground">The A2 Kreations</h1>
                 <p className="text-xs text-muted-foreground">Events & Hospitality</p>

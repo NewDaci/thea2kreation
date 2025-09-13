@@ -38,7 +38,7 @@ const EventAbout = () => {
               <div className="text-sm text-muted-foreground">Support</div>
             </div>
             <div className="text-center">
-              <div className="text-4xl font-bold text-primary mb-2">500+</div>
+              <div className="text-4xl font-bold text-primary mb-2">50+</div>
               <div className="text-sm text-muted-foreground">Events Crafted</div>
             </div>
             <div className="text-center">

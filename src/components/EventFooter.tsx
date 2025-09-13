@@ -20,7 +20,7 @@ const EventFooter = () => {
               We don't just plan events — we craft experiences that linger in memory. Vision. Create. Unleash.
             </p>
             <div className="text-sm text-gray-400 space-y-1">
-              <p>📧 info@a2kreations.com</p>
+              <p>📧 events@thea2kreation.com</p>
               <p>📞 Contact us today</p>
               <p>📍 India</p>
             </div>

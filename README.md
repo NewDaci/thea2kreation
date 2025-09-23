@@ -1,4 +1,4 @@
-<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/281e0fc5-a1bd-470c-bbf4-86dd13978b1c" />## Project info
+# Project info
 
 **URL**: https://thea2kreation.com/
 <img width="1906" height="961" alt="image" src="https://github.com/user-attachments/assets/3f656ec6-d330-4be8-beed-9392fce8e7a6" />

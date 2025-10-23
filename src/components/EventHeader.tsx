@@ -36,9 +36,9 @@ const EventHeader = () => {
             <a href="#gallery" className="text-foreground hover:text-primary transition-colors">
               Gallery
             </a>
-            <a href="#career" className="text-foreground hover:text-primary transition-colors">
+            {/* <a href="#career" className="text-foreground hover:text-primary transition-colors">
               Career
-            </a>
+            </a> */}
             <a href="#contact" className="text-foreground hover:text-primary transition-colors">
               Contact Us
             </a>
